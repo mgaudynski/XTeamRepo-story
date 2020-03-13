@@ -8,4 +8,6 @@ stressed. They were making progress on the project, but they were still a bit
 behind schedule. Not only that, but there were rumors that the X-athon might
 be canceled due to coronavirus. All of the group members were worried.
 
-But in spite of the virus, their work continued. The team managed to submit to submit their assignments and xteam projects and not get sick. 
+But in spite of the virus, their work continued. The team managed to submit to submit their assignments and xteam projects and not get sick.
+
+The team utilized GitHub and version control in order to work remotely and track progress. This allowed the team to successfully implement their Final X team project. 
